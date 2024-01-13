@@ -1,2 +1,2 @@
 # dbproject
-SQL Queries Database Project
+Small project made for my Databases Course at my University.
